@@ -1,10 +1,12 @@
-hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-# I'm <span style="color: red;">Shubham Kumar</span>
+<p>hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></p>
+<h1>I'm Shubham Kumar</h1>
+<h3>I do things out of curiosity</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumxr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumxr" /> </p>
 
-## About Me
-- 👋 Hi, I’m @Shubhamkumxr
-- 👀 I’m interested in BlockChain
-- 🌱 I’m currently learning FullStack 
+- 🔭 I’m currently working on Full-stack development
+- 🌱 I’m currently learning Blockchain
+- 👨‍💻 All of my projects are available at [shubhamkumxr.netlify.app](https://shubhamkumxr.netlify.app/)
+- ⚡ Fun fact I only use dark mode.
 
 ### Languages and Technologies
 
@@ -21,9 +23,7 @@ hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/mast
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 ### Socials
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubhamkumxr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkumxr)
-
