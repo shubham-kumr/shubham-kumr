@@ -1,9 +1,11 @@
-<p>hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></p>
+<p>hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></p>
 
-# I'm [Shubham Kumar](https://www.google.com/search?q=shubhamkumar) 
+# I'm [Shubham!](https://www.google.com/search?q=shubhamkumar) 
 
 <h3>I do things out of curiosity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumxr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumxr" /> </p>
+
+### About Me 
 
 - 🔭 I’m currently working on Full-stack development
 - 🌱 I’m currently learning Blockchain
