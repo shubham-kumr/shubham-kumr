@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Full-stack development
 - 🌱 I’m currently learning Blockchain
-- 👨‍💻 All of my projects are available at [theshubhamkumr.netlify.app](thehttps://shubhamkumr.netlify.app/)
+- 👨‍💻 All of my projects are available at [theshubhamkumr.netlify.app](https://shubhamkumr.netlify.app/)
 - ⚡ Fun fact I only use dark mode.
 
 ### Languages and Technologies
