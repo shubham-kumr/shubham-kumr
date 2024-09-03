@@ -1,16 +1,16 @@
 <p>hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></p>
 
-# I'm [Shubham!](https://theshubhamkumr.netlify.app/) 
+# I'm [Shubham!](https://shubhamkr.vercel.app/) 
 
-<h3>I do things out of curiosity</h3>
+<h3>your friendly neighborhood developer.../</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumxr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumxr" /> </p>
 
 ### About Me 
 
 - 🔭 I’m currently working on Full-stack development
-- 🌱 I’m currently learning Blockchain
-- 👨‍💻 All of my projects are available at [theshubhamkumr.netlify.app](https://shubhamkumr.netlify.app/)
-- ⚡ Fun fact I only use dark mode.
+- 🌱 I’m currently learning about Blockchain/cybersecurity
+- 👨‍💻 All of my projects are available at [View My Site](https://shubhamkr.vercel.app/)
+- ⚡ Fun fact: I only use dark mode.
 
 ### Languages and Technologies
 
@@ -28,6 +28,5 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Socials
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubhamkumxr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkumxr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkr6758@gmail.com)
