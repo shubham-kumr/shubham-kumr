@@ -1,4 +1,6 @@
-<p>hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></p>
+<p>hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></p>
+
+<img src="assets/image.png">
 
 # I'm [Shubham!](https://shubhamkumarr.vercel.app/) 
 
