@@ -10,8 +10,8 @@
 ### About Me 
 
 - 🔭 I’m currently working on Full-stack development
-- 🌱 I’m currently learning about cybersecurity
-- 👨‍💻 All of my projects are available at [View My Site](https://shubhamkumarr.vercel.app/)
+- 🌱 I’m currently learning about cybersecurity and blockchain.
+- 👨‍💻 All of my projects are available at [View My Site](https://shubhamm.me/)
 - ⚡ Fun fact: I only use dark mode.
 
 ### Languages and Technologies
