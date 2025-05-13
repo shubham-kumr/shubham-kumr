@@ -2,32 +2,57 @@
 
 <img src="assets/image.png">
 
-# I'm [Shubham!](https://shubhamm.me/) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-kumr&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-kumr" /> </p>
+<p align="left"> <a href="https://twitter.com/shubhamkumr_" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamkumr_?logo=twitter&style=for-the-badge" alt="shubhamkumar" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theshubhamkumr&label=Profile%20views&color=0e75b6&style=flat" alt="theshubhamkumr" /> </p>
+```js
+class AboutMe {
+  constructor() {
+    this.name = "[Shubham Kumar](https://shubhamm.me/)";
+    this.age = 20;
+    this.location = "📍 India";
+    this.darkMode = true;
+    this.mode = "🌙 Dark mode always";
+    
+    this.roles = [
+      "Full-Stack Developer",
+      "Tech Explorer",
+      "Side Project Builder",
+      "Lifelong Learner"
+    ];
 
-### About Me 
+    this.status = {
+      learning: ["Cybersecurity", "Blockchain"],
+      workingOn: [
+        "[Portfolio](https://shubhamm.me/)",
+        "[OpenSource Contribution]"
+      ]
+    };
 
-- 🔭 I’m currently working on Full-stack development
-- 🌱 I’m currently learning about cybersecurity and blockchain.
-- 👨‍💻 All of my projects are available at [View My Site](https://shubhamm.me/)
-- ⚡ Fun fact: I only use dark mode.
+    this.skills = {
+      languages: [
+        "C", "C++", "Java", "Python", "JavaScript", "HTML", "CSS"
+      ],
+      frameworks: [
+        "React", "Node.js", "Tailwind CSS", "Next.js", "Express.js", "Vue.js"
+      ],
+      tools: [
+        "Postman", "Linux", "Docker", "Git", "VS Code", "Nginx", "Webpack", "Firebase"
+      ]
+    };
 
-### Languages and Technologies
+    this.socials = {
+      linkedIn: "[LinkedIn](https://www.linkedin.com/in/shubham-kumr/)",
+      email: "[Gmail](mailto:forshubhamkumar@gmail.com)"
+    };
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    this.funFact = "⚡ I only use dark mode.";
+  }
+}
 
-### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumr/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forshubhamkumar@gmail.com)
+const shubham = new AboutMe();
+
+```
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubham-kumr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
