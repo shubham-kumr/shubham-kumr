@@ -38,7 +38,27 @@
       <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
     </a>
   </span>
+  
 </p>
+
+---
+
+### 🌍 Web3 Identity
+
+> `shubhamkumar.base.eth`  
+> My decentralized identity on-chain — forever mine.
+
+<p align="left">
+  <a href="https://basescan.org/address/shubhamkumar.base.eth" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on-BaseScan-0052FF?logo=ethereum&logoColor=white&style=for-the-badge" alt="View on BaseScan" />
+  </a>
+
+  <a href="https://app.ens.domains/name/shubhamkumar.base.eth" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on-ENS%20Domain-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge" alt="View on ENS Domain" />
+  </a>
+</p>
+
+---
 
 
 
@@ -79,6 +99,12 @@ class AboutMe {
         "Postman", "Linux", "Docker", "Git", "VS Code", "Nginx", "Webpack", "Firebase"
       ]
     };
+
+    this.web3 = {
+      ens: "shubhamkumar.base.eth",
+      chain: "Base"
+    };
+
   }
 }
 
