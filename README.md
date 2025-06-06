@@ -58,6 +58,13 @@
   </a>
 </p>
 
+<span style="margin-right: 8px;">
+  <a href="mailto:shubhamkumar@mailchain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mailchain-shubhamkumar%40mailchain.com-4B5563?logo=maildotru&logoColor=white&style=for-the-badge" alt="Mailchain Email" />
+  </a>
+</span>
+
+
 ---
 
 
