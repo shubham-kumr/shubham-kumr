@@ -61,10 +61,11 @@
 
 ---
 <p align="left">
-  <a href="https://tryhackme.com/p/ghostphreak" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ghostphreak.png" alt="TryHackMe Badge" width="300"/>
+  <a href="https://tryhackme.com/p/shubhamkumr" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/shubhamkumr.png" alt="TryHackMe Badge - shubhamkumr" width="300"/>
   </a>
 </p>
+
 
 
 
